@@ -1,4 +1,4 @@
-# Description Module
+# Simple files with test in jasmine-jquery
 
 ### Requirements:
 1. node - download installer from `http://nodejs.org` or use `brew`
